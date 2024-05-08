@@ -1,5 +1,6 @@
 from ultralytics import YOLO
 import cv2
+#hello hampus
 
 # start webcam
 cap = cv2.VideoCapture(0)
