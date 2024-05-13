@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
+  m_Name: SemanticSegmentationLabelConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: book_dorkdiaries_aladdin
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - label: candy_minipralines_lindt
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - label: candy_raffaello_confetteria
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: cereal_capn_crunch
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - label: cereal_cheerios_honeynut
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - label: cereal_corn_flakes
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - label: cereal_cracklinoatbran_kelloggs
+    color: {r: 0.002034545, g: 1, b: 0.62509817, a: 1}
+  - label: cereal_oatmealsquares_quaker
+    color: {r: 0.8848009, g: 1, b: 0.06837559, a: 1}
+  - label: cereal_puffins_barbaras
+    color: {r: 0.49137628, g: 0.6735401, b: 1, a: 1}
+  - label: cereal_raisin_bran
+    color: {r: 1, g: 0.1968329, b: 0.28069785, a: 1}
+  - label: cereal_rice_krispies
+    color: {r: 1, g: 0.78864145, b: 0.041164815, a: 1}
+  - label: chips_gardensalsa_sunchips
+    color: {r: 1, g: 0.01975894, b: 0.17899613, a: 1}
+  - label: chips_sourcream_lays
+    color: {r: 0.04596299, g: 0.5912764, b: 1, a: 1}
+  - label: cleaning_freegentle_tide
+    color: {r: 0.12188566, g: 1, b: 0.87325, a: 1}
+  - label: cleaning_snuggle_henkel
+    color: {r: 0.48357564, g: 0.8133595, b: 1, a: 1}
+  - label: cracker_honeymaid_nabisco
+    color: {r: 0.35431254, g: 0.59728986, b: 1, a: 1}
+  - label: cracker_lightrye_wasa
+    color: {r: 0.15969205, g: 1, b: 0.8443087, a: 1}
+  - label: cracker_triscuit_avocado
+    color: {r: 0.1402179, g: 0.6806053, b: 1, a: 1}
+  - label: cracker_zwieback_brandt
+    color: {r: 0.2884413, g: 0.90724486, b: 1, a: 1}
+  - label: craft_yarn_caron
+    color: {r: 0.07013774, g: 1, b: 0.5412378, a: 1}
+  - label: drink_adrenaline_shock
+    color: {r: 0.5138112, g: 1, b: 0.24725783, a: 1}
+  - label: drink_coffeebeans_kickinghorse
+    color: {r: 1, g: 0.7258732, b: 0.20193374, a: 1}
+  - label: drink_greentea_itoen
+    color: {r: 1, g: 0.1127252, b: 0.9316789, a: 1}
+  - label: drink_orangejuice_minutemaid
+    color: {r: 0.9816605, g: 1, b: 0.29847825, a: 1}
+  - label: drink_whippingcream_lucerne
+    color: {r: 0.44304547, g: 1, b: 0.07049388, a: 1}
+  - label: footware_slippers_disney
+    color: {r: 0.6936503, g: 1, b: 0.09077835, a: 1}
+  - label: hygiene_poise_pads
+    color: {r: 0.9642215, g: 0.3838337, b: 1, a: 1}
+  - label: lotion_essentially_nivea
+    color: {r: 1, g: 0.6872951, b: 0.36321783, a: 1}
+  - label: lotion_vanilla_nivea
+    color: {r: 0.49292248, g: 0.11246431, b: 1, a: 1}
+  - label: pasta_lasagne_barilla
+    color: {r: 1, g: 0.14364636, b: 0.19903295, a: 1}
+  - label: pest_antbaits_terro
+    color: {r: 0.86617154, g: 0.069054484, b: 1, a: 1}
+  - label: porridge_grits_quaker
+    color: {r: 0.2882769, g: 0.39543828, b: 1, a: 1}
+  - label: seasoning_canesugar_candh
+    color: {r: 0.11586338, g: 1, b: 0.7136069, a: 1}
+  - label: snack_biscotti_ghiott
+    color: {r: 0.9220411, g: 1, b: 0.3840627, a: 1}
+  - label: snack_breadsticks_nutella
+    color: {r: 1, g: 0.4843167, b: 0.7680164, a: 1}
+  - label: snack_chips_pringles
+    color: {r: 0.7239586, g: 0.3928542, b: 1, a: 1}
+  - label: snack_coffeecakes_hostess
+    color: {r: 1, g: 0.5008237, b: 0.12504971, a: 1}
+  - label: snack_cookie_famousamos
+    color: {r: 0.22151852, g: 0.7303249, b: 1, a: 1}
+  - label: snack_cookie_petitecolier
+    color: {r: 1, g: 0.22654486, b: 0.9978941, a: 1}
+  - label: snack_cookie_quadratini
+    color: {r: 1, g: 0.92534804, b: 0.395813, a: 1}
+  - label: snack_cookie_waffeletten
+    color: {r: 1, g: 0.5947492, b: 0.10573751, a: 1}
+  - label: snack_cookie_walkers
+    color: {r: 0.04060465, g: 0.7558985, b: 1, a: 1}
+  - label: snack_cookies_fourre
+    color: {r: 0.44349837, g: 0.566182, b: 1, a: 1}
+  - label: snack_granolabar_kashi
+    color: {r: 1, g: 0.6301839, b: 0.24407446, a: 1}
+  - label: snack_granolabar_kind
+    color: {r: 0.8442685, g: 0.45953256, b: 1, a: 1}
+  - label: snack_granolabar_naturevalley
+    color: {r: 0.93789345, g: 0.06611645, b: 1, a: 1}
+  - label: snack_granolabar_quaker
+    color: {r: 1, g: 0.20568182, b: 0.040103376, a: 1}
+  - label: snack_salame_hillshire
+    color: {r: 0.45536536, g: 1, b: 0.94079155, a: 1}
+  - label: soup_chickenenchilada_progresso
+    color: {r: 0.94046366, g: 1, b: 0.33659118, a: 1}
+  - label: soup_tomato_pacific
+    color: {r: 1, g: 0.47390813, b: 0.49401757, a: 1}
+  - label: storage_ziploc_sandwich
+    color: {r: 1, g: 0.31906927, b: 0.1478219, a: 1}
+  - label: toiletry_tissue_softly
+    color: {r: 0.5738183, g: 0.060511112, b: 1, a: 1}
+  - label: toiletry_toothpaste_colgate
+    color: {r: 1, g: 0.08606005, b: 0.37661305, a: 1}
+  - label: toy_cat_melissa
+    color: {r: 0.47106075, g: 1, b: 0.5757584, a: 1}
+  - label: utensil_candle_decorators
+    color: {r: 0.25405586, g: 1, b: 0.34623712, a: 1}
+  - label: utensil_coffee_filters
+    color: {r: 1, g: 0.8195792, b: 0.36796004, a: 1}
+  - label: utensil_cottonovals_signaturecare
+    color: {r: 1, g: 0.14896381, b: 0.8011451, a: 1}
+  - label: utensil_papertowels_valuecorner
+    color: {r: 0.4153452, g: 1, b: 0.8425346, a: 1}
+  - label: utensil_toiletpaper_scott
+    color: {r: 1, g: 0.7566827, b: 0.09398574, a: 1}
+  - label: utensil_trashbag_valuecorner
+    color: {r: 0.8453373, g: 0.2206899, b: 1, a: 1}
+  - label: vitamin_centrumsilver_adults
+    color: {r: 0.068475544, g: 1, b: 0.70599586, a: 1}
+  - label: vitamin_centrumsilver_men
+    color: {r: 1, g: 0.43005198, b: 0.7049598, a: 1}
+  - label: vitamin_centrumsilver_woman
+    color: {r: 1, g: 0.31440967, b: 0.3697021, a: 1}
+  skyColor: {r: 0, g: 0, b: 0, a: 1}

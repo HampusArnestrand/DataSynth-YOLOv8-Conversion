@@ -1,0 +1,6 @@
+{
+  "UnityEngine.Perception.GroundTruth.Consumers.SoloEndpoint.output_path": {
+    "type": "String",
+    "value": "G:/Min enhet/YOLOv8 data/Raw_data"
+  }
+}
