@@ -1,1 +1,1 @@
-DataSynth-Manual.pdf
+[Manual](DataSynth-Manual.pdf)
