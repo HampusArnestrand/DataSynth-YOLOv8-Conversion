@@ -65,8 +65,8 @@ MonoBehaviour:
         asm: Unity.Perception.Runtime}
       data:
         range:
-          minimum: 0.25
-          maximum: 1.1
+          minimum: 0.15
+          maximum: 1.15
         <minAllowed>k__BackingField: 0
         <maxAllowed>k__BackingField: 0
         <shouldCheckValidRange>k__BackingField: 0

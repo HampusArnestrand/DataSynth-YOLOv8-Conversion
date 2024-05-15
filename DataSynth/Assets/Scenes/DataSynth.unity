@@ -984,7 +984,7 @@ MonoBehaviour:
         asm: Unity.Perception.Runtime}
       data:
         mean: 0
-        standardDeviation: 0.025
+        standardDeviation: 0.015
         range:
           minimum: 0
           maximum: 1
